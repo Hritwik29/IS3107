@@ -1,5 +1,7 @@
 flask
 flask-socketio
+eventlet
+gunicorn
 python-chess
 requests
 torch
